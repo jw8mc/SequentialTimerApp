@@ -16,3 +16,15 @@ With this individual project, I hope to create a sequential timer application (f
 * Charts, metrics, and statistics on tasks completion, time, successes, etc
 
 I'd like to explore using some of Google's APIs for Calendar and OAuth2. I'd like to be able to sync data across multiple devices, or configure certain alarms to sound only on specific devices (ie. no wakeup alarm on your computer) but since porting it to other platforms is a stretch goal this is less important.
+
+### Instructor Comments
+
+I really like this idea, Jen, and think it will provide you with an appropriate level of challenge for the project. Creating something that meets a need you have will make this a lot more relevant and fun to work on! As you do the design, keep a clear separation of the business logic and the presentation layer; this will allow you to more easily adapt it to an Android app at some point (doing it this semester might be pushing it). You mentioned this would be a desktop app, so I take that to mean not a web application, is that correct? Have you worked with Swing/AWT in the past? There will be a bit of learning related to that if not, and that may also qualify as your independent research item.  The Google Calendar API looks to be pretty well documented - good choice!
+
+Next, I'd like to see a plan from you detailing what you plan to accomplish and when. At minimum this should be listed by week, for example:
+  
+  * Week 5
+      * Complete Weekly Journal/Blog/Wiki (Status Report)
+      * Complete screen design
+      * Complete database design
+  
